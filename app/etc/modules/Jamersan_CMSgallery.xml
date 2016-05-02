@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Jamersan_CMSgallery>
+            <active>true</active>
+            <codePool>local</codePool>
+            <version>0.1.0</version>
+        </Jamersan_CMSgallery>
+    </modules>
+</config>
